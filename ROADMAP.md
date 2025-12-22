@@ -27,7 +27,7 @@ Exploring the core of database systems, inside and out.
 
 ---
 
-### Day 1–2: What a DBMS Guarantees
+### [P01C001] Day 1–2: What a DBMS Guarantees
 
 #### Learn
 
@@ -55,7 +55,7 @@ Exploring the core of database systems, inside and out.
 
 ---
 
-### Day 3–4: Normalization (The Right Way)
+### [P01C002] Day 3–4: Normalization (The Right Way)
 
 #### Learn
 
@@ -84,7 +84,7 @@ Order(order_id, user_name, user_email, product_name, product_price)
 
 ---
 
-### Day 5–6: SQL + Relational Algebra + N+1 Trap
+### [P01C003] Day 5–6: SQL + Relational Algebra + N+1 Trap
 
 #### Learn
 
@@ -122,7 +122,7 @@ Order(order_id, user_name, user_email, product_name, product_price)
 
 ---
 
-### Day 7: Transactions & Correctness
+### [P01C004] Day 7: Transactions & Correctness
 
 #### Learn
 
@@ -144,7 +144,7 @@ Order(order_id, user_name, user_email, product_name, product_price)
 
 ---
 
-### Day 8–9: Indexing & Basic Performance
+### [P01C005] Day 8–9: Indexing & Basic Performance
 
 #### Learn
 
@@ -168,7 +168,7 @@ Order(order_id, user_name, user_email, product_name, product_price)
 
 ---
 
-### Day 10: Mini System DB Design
+### [P01C005] Day 10: Mini System DB Design
 
 #### Implement
 
@@ -193,7 +193,7 @@ Apply:
 
 ---
 
-### 🔹 Query Optimization & Planner
+### [P02C001] Query Optimization & Planner
 
 - Cost-based optimization
 - Join algorithms
@@ -206,7 +206,7 @@ Apply:
 
 ---
 
-### 🔹 Storage Engine & Internals
+### [P02C002] Storage Engine & Internals
 
 - Pages & tuples
 - WAL
@@ -220,7 +220,7 @@ Apply:
 
 ---
 
-### 🔹 Concurrency & Isolation
+### [P02C003] Concurrency & Isolation
 
 - Locks
 - Deadlocks
@@ -232,7 +232,7 @@ Apply:
 
 ---
 
-### 🔹 Advanced Modeling Patterns (Days 20–30)
+### [P02C004] Advanced Modeling Patterns (Days 20–30)
 
 #### Topics
 
@@ -255,7 +255,7 @@ Apply:
 
 ---
 
-### 🔹 Schema Migration
+### [P02C005] Schema Migration
 
 - Zero-downtime migrations
 - Backward compatibility
@@ -269,7 +269,7 @@ Apply:
 
 ---
 
-### 🔹 Scaling & Replication
+### [P03C001] Scaling & Replication
 
 - Read replicas
 - Sharding
@@ -282,7 +282,7 @@ Apply:
 
 ---
 
-### 🔹 Distributed Systems (Days 60–75)
+### [P03C002] Distributed Systems (Days 60–75)
 
 #### Topics
 
@@ -301,7 +301,7 @@ Apply:
 
 ---
 
-### 🔹 OLTP vs OLAP
+### [P03C003] OLTP vs OLAP
 
 - Star & snowflake schema
 - Analytical modeling
@@ -309,7 +309,7 @@ Apply:
 
 ---
 
-### 🔹 NoSQL & Polyglot Persistence
+### [P03C004] NoSQL & Polyglot Persistence
 
 - Redis
 - MongoDB
@@ -317,7 +317,7 @@ Apply:
 
 ---
 
-### 🔹 Reliability & Disaster Recovery
+### [P03C005] Reliability & Disaster Recovery
 
 - Backups
 - PITR
@@ -326,7 +326,7 @@ Apply:
 
 ---
 
-### 🔹 Security, Governance & Compliance (Days 80–90)
+### [P03C006] Security, Governance & Compliance (Days 80–90)
 
 #### Topics
 
