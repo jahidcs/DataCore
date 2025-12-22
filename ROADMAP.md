@@ -2,14 +2,6 @@
 
 Exploring the core of database systems, inside and out.
 
-**progress Mapping**
-
-- 🟢 Mastered — Fully understood, exercised, and can implement or explain confidently
-- 🟡 Partial — Read/watched or partially exercised; some gaps remain
-- 🔵 In Progress — Currently learning / actively working through exercises
-- ⚪ Planned — Scheduled to learn soon, not started
-- 🔴 Blocked/Confused — Attempted but facing issues, unclear concepts
-
 # Database Mastery Roadmap
 
 > **Goal**
