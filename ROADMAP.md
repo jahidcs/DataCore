@@ -21,13 +21,13 @@ Exploring the core of database systems, inside and out.
 
 ---
 
-## PHASE 1 — Backend-Ready Foundations (Days 1–10)
+## PHASE 1 — Backend-Ready Foundations
 
 > **Outcome:** You can design and build a non-dangerous backend database solo.
 
 ---
 
-### [P01C001] Day 1–2: What a DBMS Guarantees
+### [P01C001] What a DBMS Guarantees
 
 #### Learn
 
@@ -55,7 +55,7 @@ Exploring the core of database systems, inside and out.
 
 ---
 
-### [P01C002] Day 3–4: Normalization (The Right Way)
+### [P01C002] Normalization (The Right Way)
 
 #### Learn
 
@@ -84,7 +84,7 @@ Order(order_id, user_name, user_email, product_name, product_price)
 
 ---
 
-### [P01C003] Day 5–6: SQL + Relational Algebra + N+1 Trap
+### [P01C003] SQL + Relational Algebra + N+1 Trap
 
 #### Learn
 
@@ -122,7 +122,7 @@ Order(order_id, user_name, user_email, product_name, product_price)
 
 ---
 
-### [P01C004] Day 7: Transactions & Correctness
+### [P01C004] Transactions & Correctness
 
 #### Learn
 
@@ -144,7 +144,7 @@ Order(order_id, user_name, user_email, product_name, product_price)
 
 ---
 
-### [P01C005] Day 8–9: Indexing & Basic Performance
+### [P01C005] Indexing & Basic Performance
 
 #### Learn
 
@@ -168,7 +168,7 @@ Order(order_id, user_name, user_email, product_name, product_price)
 
 ---
 
-### [P01C005] Day 10: Mini System DB Design
+### [P01C005] Mini System DB Design
 
 #### Implement
 
@@ -187,7 +187,7 @@ Apply:
 
 ---
 
-## PHASE 2 — Senior Database Engineer (Days 11–45)
+## PHASE 2 — Senior Database Engineer
 
 > **Outcome:** You understand **why** databases behave the way they do.
 
@@ -232,7 +232,7 @@ Apply:
 
 ---
 
-### [P02C004] Advanced Modeling Patterns (Days 20–30)
+### [P02C004] Advanced Modeling Patterns
 
 #### Topics
 
@@ -263,7 +263,7 @@ Apply:
 
 ---
 
-## PHASE 3 — Database Architect / CTO Level (Days 46–90)
+## PHASE 3 — Database Architect
 
 > **Outcome:** You lead database decisions at scale.
 
@@ -282,7 +282,7 @@ Apply:
 
 ---
 
-### [P03C002] Distributed Systems (Days 60–75)
+### [P03C002] Distributed Systems
 
 #### Topics
 
@@ -294,7 +294,6 @@ Apply:
 #### Exercise
 
 - Tune consistency for:
-
   - Banking
   - Chat
   - Analytics
@@ -326,7 +325,7 @@ Apply:
 
 ---
 
-### [P03C006] Security, Governance & Compliance (Days 80–90)
+### [P03C006] Security, Governance & Compliance
 
 #### Topics
 
