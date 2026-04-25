@@ -168,7 +168,7 @@ Order(order_id, user_name, user_email, product_name, product_price)
 
 ---
 
-### [P01C005] Mini System DB Design
+### [P01C006] Mini System DB Design
 
 #### Implement
 
