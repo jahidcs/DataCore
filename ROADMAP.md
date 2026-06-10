@@ -15,9 +15,10 @@ Exploring the core of database systems, inside and out.
 
 - 📘 _Database System Concepts (7th Ed)_ — Silberschatz, Korth, Sudarshan
 - 📘 _PostgreSQL 18.1 Documentation_
+- 🎥 YouTube Playlists:
+    - _CMU Database Group's CMU Intro to Database Systems (15-445/645 - Fall 2024)_([CMU Intro to Database Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq&si=id0dlpNE__4dKOUg))
 - 🤖 ChatGPT / Gemini (for explanation & design challenges)
 - 🌐 Free blogs (engineering blogs preferred)
-- 🎥 YouTube (concept visualization only)
 
 ---
 
